@@ -14,5 +14,5 @@ just build the number you want blocks like build resnet block
 my email m18829353014@163.com
 
 # news
-I release my experiments code of trying to use tridentnet:multitrident(https://github.com/wei-yuma/multitrident/master)(I am updating). Thanks for your attention, I am just a student, I want to show my work and discuss my question about object detection with you. Just for fun!
+I release my experiments code of trying to use tridentnet:multitrident(https://github.com/wei-yuma/multitrident) (I am updating). Thanks for your attention, I am just a student, I want to show my work and discuss my question about object detection with you. Just for fun!
 I didn't use share weights trident block, bucause I found it's performance is not good, I think I made something wrong
